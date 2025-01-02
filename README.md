@@ -1,3 +1,3 @@
 # octorobot-demo
-This is my a git repository.
+This is a git repository.
 Author - Dinesh Lama
